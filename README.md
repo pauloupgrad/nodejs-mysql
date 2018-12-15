@@ -6,7 +6,10 @@ version 1.0
 - Nodejs
 - Mysql-server
 - Express
-- Nodemon
 - Sequelize
 - Mysql2
 - Express-handlebars
+- Body-parser
+
+## DEV
+- Nodemon
